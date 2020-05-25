@@ -1,6 +1,6 @@
-## 이력서
+# 이력서
 
-# 황경태
+## 황경태
 - email : forthezorba@gmail.com
 - Github: https://github.com/forthezorba
    
