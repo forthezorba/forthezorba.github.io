@@ -1,10 +1,11 @@
 ## 이력서
-황경태
+#황경태
 - email : forthezorba@gmail.com
 - Github: https://github.com/forthezorba
-[스프링 프로젝트](https://github.com/forthezorba/nagagu)
-[리액트 노드 프로젝트](https://github.com/forthezorba/movynoty)
-[리액트 노드 프로젝트 서버](https://github.com/forthezorba/movynoty_back)
+- 프로젝트 github
+1. [스프링 프로젝트](https://github.com/forthezorba/nagagu)                _[nagagu.ga]_(www.nagagu.ga)
+2. [리액트 노드 프로젝트](https://github.com/forthezorba/movynoty)          _[forthezorba.com]_(www.forthezorba.com)
+   [리액트 노드 프로젝트 서버](https://github.com/forthezorba/movynoty_back)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
