@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/forthezorba/forthezorba.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## 이력서
+황경태
+- email : forthezorba@gmail.com
+- Github: https://github.com/forthezorba
+[스프링 프로젝트](https://github.com/forthezorba/nagagu)
+[리액트 노드 프로젝트](https://github.com/forthezorba/movynoty)
+[리액트 노드 프로젝트 서버](https://github.com/forthezorba/movynoty_back)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
