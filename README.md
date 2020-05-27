@@ -13,7 +13,7 @@
              aws(ec2 ubuntu, rds, s3, route53)/brypt/xshell/filezilla 등
 - (www.nagagu.ga)
 
-### 무비노티(MOVYNOTY) [리액트 소스](https://github.com/forthezorba/movynoty)/  [노드 소스](https://github.com/forthezorba/movynoty_back)
+### 무비노티(MOVYNOTY) [리액트 github page](https://github.com/forthezorba/movynoty)/  [노드 github page](https://github.com/forthezorba/movynoty_back)
 학원 수료 후 만든 리액트/노드 프로젝트 입니다. 주요 기능은 영화관 3사에서 동적 크롤링을 통해 미개봉 예정작 정보를 가져오고,
 USER가 알람 신청을 하면 ADMIN이 GCM을 통해 개봉 하루 전 웹알람을 보내줍니다.
 - 사용기술 : node/koa/react/mongo/nginx/git/bcrypt/aws(ec2 ubuntu, route53, ssl)/xshell/firebase GCM/scss/styled-components/puppeteer 등
