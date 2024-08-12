@@ -27,3 +27,4 @@ USER가 알람 신청을 하면 ADMIN이 GCM을 통해 개봉 하루 전 웹알�
 - 사용기술 : node/koa/react/mongo/nginx/git/bcrypt/aws(ec2 ubuntu, route53, ssl)/xshell/firebase GCM/scss/styled-components/puppeteer 등
 - (www.forthezorba.com)
 
+![image_1679041564074](https://github.com/user-attachments/assets/19fc030c-aef4-43f3-a142-9b4fa1a3d6f6)
